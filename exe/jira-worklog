@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
-require 'jira/worklog'
-require 'jira/worklog/cli'
+require_relative '../lib/jira/worklog'
+require_relative '../lib/jira/worklog/cli'
